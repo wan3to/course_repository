@@ -6,4 +6,3 @@ print(a - b)
 print(a * b)
 print(a / b)
 print(type(10/2))
-
